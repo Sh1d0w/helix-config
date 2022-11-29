@@ -8,4 +8,4 @@ normal = "block"
 select = "underline"
 
 [keys.normal]
-C-s = [":w", ":format"]
+C-s = [":format", ":w"]
